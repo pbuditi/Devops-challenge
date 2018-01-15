@@ -1,6 +1,6 @@
 # devops challenge
 
-Get this [app]up and running on any public cloud (AWS for example) using your known 
+Get this [app](https://github.com/pbuditi/Devops-challenge) up and running on any public cloud (AWS for example) using your known 
 best practices as well as the instructions in the guidelines below.
 
 You should use [provisioner](https://www.terraform.io/docs/provisioners/index.html/) to install and configure everything. You can use provisioner of your choice.
